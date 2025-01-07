@@ -2,14 +2,12 @@
 <h3 align="center">Passionate Java Developer with Expertise in OOP Concepts, Strong DSA Skills, and a Flair for Problem Solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-natraj&label=Profile%20views&color=0e75b6&style=flat" alt="varun-natraj" /> </p>
-
+- 🔭 Here's my [portfolio](https://varun-resume.my.canva.site/)
 - 🌱 I’m currently learning **DSA & OOPS in Java**
 
 - 💬 Ask me about **Tech**
 
 - 📫 How to reach me **https://www.linkedin.com/in/varun-natraj-v-34566b25a**
-
-- 📄 Know about my experiences [https://varun-resume.my.canva.site/](https://varun-resume.my.canva.site/)
 
 - ⚡ Fun fact **I'm Interested in Core and Code in C++,Java in OOPS**
 
