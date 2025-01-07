@@ -2,7 +2,9 @@
 <h3 align="center">Passionate Java Developer with Expertise in OOP Concepts, Strong DSA Skills, and a Flair for Problem Solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-natraj&label=Profile%20views&color=0e75b6&style=flat" alt="varun-natraj" /> </p>
+
 - 🔭 Here's my [portfolio](https://varun-resume.my.canva.site/)
+
 - 🌱 I’m currently learning **DSA & OOPS in Java**
 
 - 💬 Ask me about **Tech**
@@ -33,7 +35,10 @@
 </p>
 
 
+![Varun-Natraj's Stats](https://github-readme-stats.vercel.app/api?username=Varun-Natraj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-natraj&show_icons=true&locale=en&layout=compact" alt="varun-natraj" /></p>
+![Varun-Natraj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varun-Natraj&theme=vue-dark&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-natraj&" alt="varun-natraj" /></p>
+![Varun-Natraj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Natraj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+[![LeetCodeStats](https://leetcode.panchajanya.dev/varun_natraj?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/varun_natraj/)
